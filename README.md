@@ -10,12 +10,7 @@ This repository serves as a **central knowledge hub** for professionals preparin
 **iCert Global** is a professional training and certification provider offering industry-recognized courses in:
 
 - Project Management
-- Cloud Computing
-- Data Science & AI
-- Cybersecurity
-- DevOps
-- Agile & Scrum
-- Business Analysis
+- Quality Management
 
 This repository is designed to support learners with **structured study material**, **exam insights**, and **interview preparation resources**.
 
