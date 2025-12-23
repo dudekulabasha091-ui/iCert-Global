@@ -11,6 +11,10 @@ This repository serves as a **central knowledge hub** for professionals preparin
 
 - Project Management
 - Quality Management
+- New Technologies
+- Cloud Technology
+- Business Analysis certification
+- Cybersecurity Certification
 
 This repository is designed to support learners with **structured study material**, **exam insights**, and **interview preparation resources**.
 
